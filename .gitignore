@@ -1,0 +1,9 @@
+#Ignore all the files and folders
+*
+
+#Inculde the erl files
+!*.erl
+
+!.gitignore
+!README.md
+
